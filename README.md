@@ -1,5 +1,9 @@
 # nemohackers.org (version 1)
 
+<p align="center">
+  <img src=".github/logo.png" alt="www.nemohackers.org1 logo" width="128" />
+</p>
+
 Version 1 of the nemo hackers community site.
 
 ## Contents
